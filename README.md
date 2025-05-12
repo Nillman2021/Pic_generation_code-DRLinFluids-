@@ -17,4 +17,5 @@ which was used to generate 10+1 pics, in which the change of total reward among 
 # 3 Pic_generation_from_one_info_list_files_Package #
 which was used to shown the reward data among trajectory in the episode (that we have mentioned before) that have the best total reward until now. But here we just use the "info_list_*"files in the /env01(or /env02 or /env03 ...)
 
-# 4  #
+# 4 Pic_generation_for_all_info_list_files_Run #
+which use all the three code mentioned before to generate picsss that what we need (or not). Let the code work and then we can plat BF1.
