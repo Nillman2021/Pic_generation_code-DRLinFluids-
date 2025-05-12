@@ -13,3 +13,8 @@ which was uesd to generate one json file, in which total reward and No. of best 
 
 # 2 Pic_generation_fom_total_reward_10_envs_Package #
 which was used to generate 10+1 pics, in which the change of total reward among 10 env files was shown, and also, the pic of mean total reward among episodes was shown in the "1" another pic.
+
+# 3 Pic_generation_from_one_info_list_files_Package #
+which was used to shown the reward data among trajectory in the episode (that we have mentioned before) that have the best total reward until now. But here we just use the "info_list_*"files in the /env01(or /env02 or /env03 ...)
+
+# 4  #
