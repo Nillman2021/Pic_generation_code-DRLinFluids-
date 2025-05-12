@@ -9,4 +9,6 @@ But what shoud care about is that, there should have the files in /env01(or /env
 
 
 # 1 Generation_cfd_episode_info_Package:
-was uesd to generate ond json file, in which the and total reward and No. of best episode till now was shown, this can let us konw
+was uesd to generate one json file, in which total reward and No. of best episode till now will be shown.
+
+# 2 
