@@ -12,4 +12,4 @@ But what shoud care about is that, there should have the files in /env01(or /env
 which was uesd to generate one json file, in which total reward and No. of best episode till now will be shown.
 
 # 2 Pic_generation_fom_total_reward_10_envs_Package #
-which was used to generate 10+1 pics, in which the change of total reward among 10 env files was shown, and also, the pic of mean total reward among episodes was shown in the "1" another pic
+which was used to generate 10+1 pics, in which the change of total reward among 10 env files was shown, and also, the pic of mean total reward among episodes was shown in the "1" another pic.
